@@ -32,7 +32,7 @@ instructpix2pix-editor/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/instructpix2pix-editor.git
+git clone https://github.com/ln-bodicherla/instructpix2pix-editor.git
 cd instructpix2pix-editor
 python -m venv venv
 source venv/bin/activate
